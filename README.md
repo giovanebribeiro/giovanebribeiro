@@ -1,4 +1,4 @@
-### Olá, mundo! Bem-vindos e bem-vindas a esse profile arretado dos cachorro das mulesta!
+### Olá! Giovane aqui :D
 
 - 🔭 Atualmente trabalho com backend
 - 🌱 Agora estou estudando microsserviços com grpc
