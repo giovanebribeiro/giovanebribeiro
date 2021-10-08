@@ -1,9 +1,5 @@
 ### Olá, mundo! Bem-vindos e bem-vindas a esse profile arretado dos cachorro das mulesta!
 
-![wakatime](https://wakatime.com/badge/user/09cfbc17-627a-48d7-8a75-3a5f2bd93e7d.svg)
-![GitHub followers](https://img.shields.io/github/followers/giovanebribeiro?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/giovanebribeiro?style=social)
-
 - 🔭 Atualmente trabalho com backend e quase nada de SRE
 - 🌱 Agora estou estudando microsserviços com grpc
 - 😄 Pronouns: ele/dele/he/his
