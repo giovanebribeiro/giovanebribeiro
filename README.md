@@ -1,6 +1,6 @@
 ### Olá, mundo! Bem-vindos e bem-vindas a esse profile arretado dos cachorro das mulesta!
 
-- 🔭 Atualmente trabalho com backend e quase nada de SRE
+- 🔭 Atualmente trabalho com backend
 - 🌱 Agora estou estudando microsserviços com grpc
 - 😄 Pronouns: ele/dele/he/his
 <div align="center">
