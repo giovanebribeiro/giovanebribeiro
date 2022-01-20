@@ -1,4 +1,4 @@
-### Olá! Giovane aqui :D
+### Olá! Giovane aqui :D 🤞
 
 - 🔭 Atualmente trabalho com backend
 - 🌱 Agora estou estudando microsserviços com grpc
