@@ -1,8 +1,7 @@
 ### Olá! Giovane aqui :D 🤞
 
 - 🔭 Atualmente trabalho com backend
-- 🌱 Agora estou estudando microsserviços com grpc
-- 😄 Pronouns: ele/dele/he/his
+- 🌱 Agora estou estudando platform engineering, design patterns e DDD, estes últimos focados em java
 <div align="center">
   <a href="https://github.com/giovanebribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanebribeiro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
