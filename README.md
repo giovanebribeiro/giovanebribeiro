@@ -24,6 +24,7 @@
   <a href="https://instagram.com/giovanebribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/giovanebribeiro" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/4820996/giovane-boaviagem" target="_blank"><img src="https://img.shields.io/badge/-Stack Overflow-%23F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://getalby.com/p/giovanebribeiro" target="_blank"><img src="https://img.shields.io/badge/-pay%20me%20a%20coffee-%23ffdf6f?style=for-the-badge&logo=alby&logoColor=black" target="_blank"></a>
 </div>
 
 <!--
